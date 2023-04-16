@@ -1,0 +1,20 @@
+{# This simple template derives from ``base.html``. See ``base.html`` for
+    more information about template inheritance. #}
+ {%- extends "base.html.j2" %}
+
+ {# Inside the ``content`` is where you should place most of your own stuff.
+    This will keep scripts at the page end and a navbar you add on later
+    intact. #}
+ {% block content %}
+   <div class="container">
+     <div class="jumbotron">
+       <h1>Sharp Remote Control</h1>
+       <p>Connected to {{ mytv.name }}.
+       </p>
+       <p>
+       <object data="static/{{ mytv.remote }}.svg" type="image/svg+xml">
+       <!--embed src="static/{{ mytv.remote }}.svg"/-->
+       </p>
+     </div>
+    </div>
+ {%- endblock %}

@@ -1,0 +1,28 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "python.linting.pylintEnabled": true,
+    "svg.preview.background": "editor",
+    "cSpell.words": [
+        "aquos",
+        "devicename",
+        "ENOTCONN",
+        "EPIPE",
+        "keyname",
+        "markupsafe",
+        "mytv",
+        "navbars",
+        "newsock",
+        "POWR",
+        "RCKY",
+        "RDWR",
+        "Sionnest",
+        "ssdp",
+        "totalsent",
+        "tvcmd"
+    ],
+    "cSpell.ignoreWords": [
+        "jsonify"
+    ]
+}

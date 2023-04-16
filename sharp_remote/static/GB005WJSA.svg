@@ -1,0 +1,195 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1384 4378">
+    <defs><style>
+        svg {
+            background-color: white;
+            color-scheme:light dark;
+        }
+        @media (prefers-color-scheme:dark) {
+            svg {
+                background-color: black;
+            }
+        }
+    </style></defs>
+    <script xlink:href="remote.js"></script>
+    <image width="1384" height="4378" xlink:href="GB005WJSA.webp"></image>
+    <a xlink:href="#0" onclick="remoteKeyPress('Power')">
+        <rect x="378" y="364" fill="#fff" opacity="0" width="176" height="174"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Display')">
+        <rect x="706" y="410" fill="#fff" opacity="0" width="126" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Power_Source')">
+        <rect x="858" y="410" fill="#fff" opacity="0" width="126" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('SelTV')">
+        <rect x="404" y="614" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('SelSTB')">
+        <rect x="558" y="614" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('SelDVD')">
+        <rect x="710" y="614" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('SelAudio')">
+        <rect x="862" y="614" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Rev')">
+        <rect x="414" y="746" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Play')">
+        <rect x="558" y="746" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Fwd')">
+        <rect x="710" y="746" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Pause')">
+        <rect x="862" y="746" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Prev')">
+        <rect x="414" y="880" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Stop')">
+        <rect x="558" y="880" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Next')">
+        <rect x="710" y="880" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Rec')">
+        <rect x="862" y="880" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Option')">
+        <rect x="404" y="1012" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Sleep')">
+        <rect x="558" y="1012" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Audio')">
+        <rect x="710" y="1012" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Freeze')">
+        <rect x="862" y="1012" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('1')">
+        <rect x="404" y="1130" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('2')">
+        <rect x="608" y="1130" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('3')">
+        <rect x="812" y="1130" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('4')">
+        <rect x="404" y="1312" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('5')">
+        <rect x="608" y="1312" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('6')">
+        <rect x="812" y="1312" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('7')">
+        <rect x="404" y="1494" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('8')">
+        <rect x="608" y="1494" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('9')">
+        <rect x="812" y="1494" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('.')">
+        <rect x="404" y="1676" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('0')">
+        <rect x="608" y="1676" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Ent')">
+        <rect x="812" y="1676" fill="#fff" opacity="0" width="168" height="148"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('CC')">
+        <rect x="404" y="1894" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('AVMode')">
+        <rect x="558" y="1894" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('ViewMode')">
+        <rect x="710" y="1894" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Flashback')">
+        <rect x="862" y="1894" fill="#fff" opacity="0" width="118" height="58"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Mute')">
+        <rect x="404" y="2116" fill="#fff" opacity="0" width="86" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Vol+')">
+        <rect x="527" y="2003" fill="#fff" opacity="0" width="148" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Vol-')">
+        <rect x="527" y="2166" fill="#fff" opacity="0" width="148" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('CH+')">
+        <rect x="710" y="2003" fill="#fff" opacity="0" width="148" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('CH-')">
+        <rect x="710" y="2166" fill="#fff" opacity="0" width="148" height="128"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Input')">
+        <rect x="890" y="2116" fill="#fff" opacity="0" width="86" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('3D')">
+        <rect x="404" y="2488" fill="#fff" opacity="0" width="92" height="92"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Menu')">
+        <rect x="574" y="2394" fill="#fff" opacity="0" width="238" height="96"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('SmartCentral')">
+        <rect x="890" y="2488" fill="#fff" opacity="0" width="92" height="92"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Left')">
+        <rect x="490" y="2640" fill="#fff" opacity="0" width="100" height="226"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Right')">
+        <rect x="800" y="2640" fill="#fff" opacity="0" width="100" height="226"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Up')">
+        <rect x="568" y="2550" fill="#fff" opacity="0" width="254" height="90"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Down')">
+        <rect x="568" y="2866" fill="#fff" opacity="0" width="254" height="88"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Enter')">
+        <rect x="594" y="2656" fill="#fff" opacity="0" width="196" height="196"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Exit')">
+        <rect x="404" y="2926" fill="#fff" opacity="0" width="92" height="92"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Return')">
+        <rect x="890" y="2926" fill="#fff" opacity="0" width="92" height="92"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Netflix')">
+        <rect x="542" y="3028" fill="#fff" opacity="0" width="298" height="110"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Favorite')">
+        <rect x="404" y="3204" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Fav1')">
+        <rect x="558" y="3204" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Fav2')">
+        <rect x="710" y="3204" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('Fav3')">
+        <rect x="862" y="3204" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('A')">
+        <rect x="404" y="3330" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('B')">
+        <rect x="558" y="3330" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('C')">
+        <rect x="710" y="3330" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+    <a xlink:href="#0" onclick="remoteKeyPress('D')">
+        <rect x="862" y="3330" fill="#fff" opacity="0" width="118" height="64"></rect>
+    </a>
+</svg>
