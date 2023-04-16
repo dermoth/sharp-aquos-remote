@@ -1,0 +1,9 @@
+[Unit]
+Description=Sharp Remote Control
+
+[Service]
+Type=exec
+ExecStart=%h/sharp-remote/run.sh
+
+[Install]
+WantedBy=default.target
