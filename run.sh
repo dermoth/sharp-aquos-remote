@@ -13,5 +13,5 @@ fi
 cd "$BASEDIR"
 . "venv/bin/activate"
 
-exec gunicorn -b 0.0.0.0:8000 'sharp_remote:create_app()'
+exec gunicorn -b 0.0.0.0:8001 'sharp_remote:create_app()'
 

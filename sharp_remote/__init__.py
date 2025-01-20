@@ -19,7 +19,6 @@ from flask_bootstrap import Bootstrap5
 
 from .frontend import frontend
 from .api import api
-from .nav import nav
 
 def create_app(config='remote.toml'):
     app = Flask(__name__)
@@ -36,7 +35,9 @@ def create_app(config='remote.toml'):
     # the CDN support (this might become a default in later versions):
     app.config['BOOTSTRAP_SERVE_LOCAL'] = True
     app.config['EXPLAIN_TEMPLATE_LOADING'] = True
-    # We initialize the navigation as well
-    nav.init_app(app)
 
     return app
+
+
+if __name__ == '__main__':
+    create_app().run(debug=True)

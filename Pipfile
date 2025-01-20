@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 bootstrap-flask = "*"
-flask-nav = "*"
 flask-wtf = "*"
 toml = "*"
 gunicorn = "*"
@@ -17,4 +16,4 @@ flask-debug = "*"
 pylint = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.11"

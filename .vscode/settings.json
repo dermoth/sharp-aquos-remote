@@ -2,7 +2,6 @@
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "python.linting.pylintEnabled": true,
     "svg.preview.background": "editor",
     "cSpell.words": [
         "aquos",

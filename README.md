@@ -35,7 +35,7 @@ Requests to implement support to non-AQUOS TV's will likely be ignored.
 
 ## License
 
-Copyright (C) 2023 Thomas Guyot-Sionnest <tguyot@gmail.com>
+Copyright (C) 2023-2024 Thomas Guyot-Sionnest <tguyot@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
